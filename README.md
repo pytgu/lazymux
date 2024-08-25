@@ -13,34 +13,34 @@
 [![BlackHole Security](core/gitbhs.svg)](https://github.com/BlackHoleSecurity)
 
 # Lazymux
-Lazymux is a tool that helps you to install and use multiple penetration testing and hacking tools on Android system with ease. It allows users to easily install and use a variety of popular tools such as Nmap, SQLMap, and Metasploit. The tool is simple to use, as you only need to type a command to install and use any of the tools. Lazymux is an open-source project and can be a very helpful tool for penetration testing and ethical hacking tasks.
+Lazymux 是一种工具，可帮助您在 Android 系统上轻松安装和使用多种渗透测试和黑客工具。它允许用户轻松安装和使用各种流行的工具，例如 Nmap、SQLMap 和 Metasploit。该工具使用简单，因为您只需键入命令即可安装和使用任何工具。Lazymux 是一个开源项目，可以成为渗透测试和道德黑客任务的非常有用的工具。
 
 Made with ❤️
 
-## Feature
-- **Tool Installation**  
-Install Single Tool  
-`lzmx > set_install 1`  
-Install Multi Tool  
-`lzmx > set_install 1 2 3 4`  
-Install All Tool  
-`lzmx > set_install @`  
-- **Default Dir Install**
-On `lazymux.conf` replace symbol ~ with directory you want  
-Example: lazymux.conf  
-`HOME = /sdcard`
+## 特征
+-**工具安装** 
+安装单个工具 
+'LZMX > set_install 1' 
+安装 Multi Tool 
+'LZMX > set_install 1 2 3 4' 
+Install All 工具 
+'LZMX > set_install @' 
+- **默认目录安装**
+在 lazymux.conf 上，将 symbol ~ 替换为您想要的目录 
+示例：lazymux.conf 
+'HOME = /sdcard'
 
 
-## Screenshot
-<img src="core/lazymux_4.png">
+## 截图
+<img src=“core/lazymux_4.png”>
 
-### Requirements
+### 要求
 • Python 3.x
 
-#### Installation and Using Lazymux
-```bash
+#### 安装和使用 Lazymux
+'''猛击
 apt install python git
 git clone https://github.com/Gameye98/Lazymux
-cd Lazymux
-python lazymux.py
+cd Lazymux （英语）
+Python lazymux.py
 ```
