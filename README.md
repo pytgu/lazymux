@@ -32,7 +32,7 @@ Install All 工具
 
 
 ## 截图
-<img src=“core/lazymux_4.png”>
+<img src="core/lazymux_4.png">
 
 ### 要求
 • Python 3.x
