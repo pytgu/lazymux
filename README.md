@@ -20,15 +20,15 @@ Made with ❤️
 ## 特征
 -**工具安装** 
 安装单个工具 
-'LZMX > set_install 1' 
-安装 Multi Tool 
-'LZMX > set_install 1 2 3 4' 
-Install All 工具 
-'LZMX > set_install @' 
+`lzmx > set_install 1`  
+安装 Multi Tool  
+`lzmx > set_install 1 2 3 4`  
+安装所有工具
+`lzmx > set_install @`  
 - **默认目录安装**
 在 lazymux.conf 上，将 symbol ~ 替换为您想要的目录 
 示例：lazymux.conf 
-'HOME = /sdcard'
+`HOME = /sdcard`
 
 
 ## 截图
