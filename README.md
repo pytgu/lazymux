@@ -38,9 +38,9 @@ Install All 工具
 • Python 3.x
 
 #### 安装和使用 Lazymux
-'''猛击
+```bash
 apt install python git
 git clone https://github.com/Gameye98/Lazymux
-cd Lazymux （英语）
-Python lazymux.py
+cd Lazymux
+python lazymux.py
 ```
