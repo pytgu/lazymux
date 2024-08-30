@@ -40,7 +40,7 @@ Made with ❤️
 #### 安装和使用 Lazymux
 ```bash
 apt install python git
-git clone https://github.com/Gameye98/Lazymux
-cd Lazymux
+git clone https://github.com/pytgu/lazymux
+cd lazymux
 python lazymux.py
 ```
