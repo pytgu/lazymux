@@ -12,8 +12,8 @@
 
 [![BlackHole Security](core/gitbhs.svg)](https://github.com/BlackHoleSecurity)
 
-# Lazymux
-Lazymux 是一种工具，可帮助您在 Android 系统上轻松安装和使用多种渗透测试和黑客工具。它允许用户轻松安装和使用各种流行的工具，例如 Nmap、SQLMap 和 Metasploit。该工具使用简单，因为您只需键入命令即可安装和使用任何工具。Lazymux 是一个开源项目，可以成为渗透测试和道德黑客任务的非常有用的工具。
+# lazymux
+Lazymux 是一种工具，可帮助您在 Android 系统上轻松安装和使用多种渗透测试和黑客工具。它允许用户轻松安装和使用各种流行的工具，例如 Nmap、SQLMap 和 Metasploit。该工具使用简单，因为您只需键入命令即可安装和使用任何工具。lazymux 是一个开源项目，可以成为渗透测试和道德黑客任务的非常有用的工具。
 
 Made with ❤️
 
@@ -37,7 +37,7 @@ Made with ❤️
 ### 要求
 • Python 3.x
 
-#### 安装和使用 Lazymux
+#### 安装和使用 lazymux
 ```bash
 apt install python git
 git clone https://github.com/pytgu/lazymux
